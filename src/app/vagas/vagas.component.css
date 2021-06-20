@@ -1,0 +1,24 @@
+.pagina-vagas {
+    background: #F0F0F0;
+}
+.btn{
+    background-color:#D4D633;
+}
+
+.card-vaga{
+	width: auto !important;
+	background-color:  #6B7CEA;
+}
+
+/*ajustes cards de vagas para layout atual 4 colunas*/
+.card-vaga .card-vaga-logo{
+  height: 100px
+}
+
+.card-vaga .card-vaga-title {
+	margin-bottom: 25px;
+}
+ 
+.btn-vaga{
+  background-color: #FF6963;
+}
